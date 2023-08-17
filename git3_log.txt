@@ -1,0 +1,11 @@
+* badcf3f Added line 5
+* b20cc15 Added line 4
+* cba9a0f Added line 3
+* 3b76643 Added line 2
+* c386032 Added line 1
+* 0bfda97 Added doubtingFile.txt to git_3
+*   d87f842 Merge branch 'git_0' into git_task
+|\  
+| * ba1ae37 changes from git_0
+|/  
+* 6796bf1 created readme
